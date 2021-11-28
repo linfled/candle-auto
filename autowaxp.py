@@ -2,8 +2,8 @@ import pyupbit
 from datetime import datetime
 import time
 
-access_key = "eDFUjqk9rKtgYFRLFr8nx96uKzC1XdS1QVfwXfTJ"
-secret_key = "zD4xMoZJfPmkS66bxd3qJmJEMxACvFQz8oF62QOg"
+access_key = ""
+secret_key = ""
 upbit = pyupbit.Upbit(access_key, secret_key)  # 로그인
 
 
